@@ -9,7 +9,7 @@ btn.addEventListener("click", async (e) => {
     const size = document.getElementById("size").value;
 
     if (text != '') {
-        const API = `https://chart.googleapis.com/chart?cht=qr&chs=${size}x${size}&chl=${text}`;
+        const API = `https://api.qrserver.com/v1/create-qr-code/?size=${size}x${size}&data=${text}`;
 
         let response = await fetch(API);
         response = await response.blob();

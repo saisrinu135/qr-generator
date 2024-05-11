@@ -40,7 +40,7 @@ img {
 
 
 form {
-    transition: all 2s ease;
+    transition: all 2s ease-in-out;
 }
 
 select,
@@ -63,4 +63,7 @@ select,
 
 [type='submit'] {
     cursor: pointer;
+    &:active{
+        transform: scale(0.95);
+    }
 }
