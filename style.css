@@ -63,7 +63,8 @@ select,
 
 [type='submit'] {
     cursor: pointer;
-    &:active{
-        transform: scale(0.95);
-    }
+}
+
+[type='submit']:active {
+    transform: scale(0.95);
 }
