@@ -1,5 +1,5 @@
 # QR Code Generator
-### This is a simple web application that generates QR codes based on the user's input text and desired size. The QR code is generated using the QRServer API.
+This is a simple web application that generates QR codes based on the user's input text and desired size. The QR code is generated using the QRServer API.
 
 ## Features
 - Generate QR codes with custom text and size
