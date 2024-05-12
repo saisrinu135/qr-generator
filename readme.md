@@ -7,7 +7,7 @@
 - Clean and modern UI
 
 ## Demo
-You can try out the live demo [https://saisrinu135.github.io/qr-generator/](here).
+You can try out the live demo [here](https://saisrinu135.github.io/qr-generator/).
 
 ## Installation
 To run the project locally, follow these steps:
