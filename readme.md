@@ -13,10 +13,10 @@ You can try out the live demo [here](https://saisrinu135.github.io/qr-generator/
 To run the project locally, follow these steps:
 
 - Clone the repository:
-```git clone https://github.com/your-username/qr-code-generator.git```
+```git clone https://github.com/saisrinu135/qr-generator```
 
 - Navigate to the project directory:
-```cd qr-code-generator```
+```cd qr-generator```
 
 - Open the index.html file in your preferred web browser.
 
